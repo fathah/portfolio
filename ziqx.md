@@ -19,3 +19,6 @@ Portfolio and account management website for **Ziqx CC LLP**.
 - Tailwind
 - Prisma ORM
 - Postgresql
+
+## Preview
+<img width="700"  alt="ziqx" src="https://github.com/user-attachments/assets/ff30322c-54e2-45ef-bf28-d62dbb6100db" />
