@@ -1,7 +1,7 @@
 # Ziqx Website
 Portfolio and account management website for **Ziqx CC LLP**.
 
-# Features
+## Features
 - Landing Page
 - About & Contact
 - Products and Serivices
