@@ -1,7 +1,7 @@
 # Libstackz
 Library Management System
 
-# Features
+## Features
 - Create and Manage Multiple Libraries
 - Manage Books and Catalogues
 - Import Data with Excel.
