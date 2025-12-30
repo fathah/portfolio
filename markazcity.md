@@ -1,7 +1,7 @@
 # Markaz Knowledge City
 Portfolio and Landing Page of **Markaz Knowledge City**, Calicut, Kerala
 
-# Features
+## Features
 - Landing Page
 - About, Institutes, Contact
 - Dynamic Data Updates
